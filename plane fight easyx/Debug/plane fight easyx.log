@@ -1,0 +1,3 @@
+﻿plane fight easyx.obj : error LNK2011: 未链接预编译对象；映像可能不能运行
+plane fight easyx.obj : error LNK2019: 无法解析的外部符号 "void __cdecl floodfill(int,int,unsigned long,int)" (?floodfill@@YAXHHKH@Z)，该符号在函数 "void __cdecl hostile_plane(int,int)" (?hostile_plane@@YAXHH@Z) 中被引用
+D:\杨沐春文件\吉林大学\计算机\C语言 syd\plane fight easyx\Debug\plane fight easyx.exe : fatal error LNK1120: 2 个无法解析的外部命令
